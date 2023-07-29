@@ -1,0 +1,89 @@
+Xiaomi 12 | cupid
+🗒️ Changelog:
+
+**********************
+     July 28, 2023
+**********************
+- enable OTA for cupid
+- Add MiuiCamera (replace Aperture)
+- Update Kernel 5.10 GKI platform tags to:
+  * tag KERNEL.PLATFORM.1.0.r1-15500-kernel.0 	
+  * tag LA.VENDOR.1.0.r1-22900-WAIPIO.QSSI13.0
+  * tag DISPLAY.LA.2.0.r1-11400-WAIPIO.0
+
+**********************
+     July 20, 2023
+**********************
+- Fix battery stats
+- Enable powershare (reverse charging)
+- Enable wireless charging
+- July 2023 Security patch
+- LOS upgrade to A13_r61 build TQ3A.230705.001
+- Configure BYPASS for Charging Control
+- Update Kernel 5.10 GKI platform tags to:
+  * tag KERNEL.PLATFORM.1.0.r1-15400-kernel.0 	
+  * tag LA.VENDOR.1.0.r1-22700-WAIPIO.QSSI13.0
+  * tag CAMERA.LA.2.0.r1-10500-WAIPIO.0
+  * tag DISPLAY.LA.2.0.r1-11100-WAIPIO.0
+  * tag VIDEO.LA.2.0.r1-08600-WAIPIO.0
+
+**********************
+     June 22, 2023
+**********************
+- Update Kernel 5.10 GKI platform tags to:
+  * tag KERNEL.PLATFORM.1.0.r1-15300-kernel.0 	
+  * tag LA.VENDOR.1.0.r1-22200-WAIPIO.QSSI13.0
+  * tag CAMERA.LA.2.0.r1-10400-WAIPIO.0
+  * tag DISPLAY.LA.2.0.r1-11000-WAIPIO.0
+  * tag VIDEO.LA.2.0.r1-08500-WAIPIO.0
+- June 2023 Security patch + QPR3
+- LOS upgrade to A13_r52 build TQ3A.230605.012
+- Implement xtra-daemon control via property
+- Remove all permissions from 'serial_number'
+- Add Lineage Charging Control 
+
+**********************
+     June 6, 2023
+**********************
+- Build with GMS
+- Update Kernel 5.10 GKI platform tags to:
+  * tag KERNEL.PLATFORM.1.0.r1-15200-kernel.0 	
+  * tag LA.VENDOR.1.0.r1-21900-WAIPIO.0
+  * tag CAMERA.LA.2.0.r1-10300-WAIPIO.0
+  * tag DISPLAY.LA.2.0.r1-10800-WAIPIO.0
+  * tag VIDEO.LA.2.0.r1-08400-WAIPIO.0
+
+**********************
+     May 31, 2023
+**********************
+- Update architecture
+- optimize blur in framework
+- Add power menu blurs
+- Improve prop utils spoof for CTS
+- Add Transparent QS feature
+- Enable blurs
+- Enable media player wave/shimmering effects
+- Require unlocking to use sensitive QS tiles
+- Enable LTE+ icon
+- Add burnin protection
+- Android 13 QPR2
+- LOS upgrade to A13_r35 build TQ2A.230305.008.C1
+- Add three-fingers-swipe screenshot
+- Make CTS/Play Integrity pass
+- enable SafetyNet pass
+- various device optimizations
+- enable VoWIFI in airplane mode
+- fix ViLTE camera
+
+**********************
+     May 22, 2023
+**********************
+- May 2023 Security patch
+- LOS upgrade to A13_r43 build TQ2A.230505.002
+- lineage cupid initial build
+
+👨‍🔧️ maintainer: raul16
+🗓️ build: monthly
+🍦️ type: gms
+📱️ version: lineage-20
+
