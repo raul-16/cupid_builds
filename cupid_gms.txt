@@ -2,9 +2,32 @@ Xiaomi 12 | cupid
 🗒️ Changelog:
 
 **********************
+     August 12, 2023
+**********************
+- August 2023 Security patch
+- LOS upgrade to A13_r67 build TQ3A.230805.001
+
+**********************
+     August 3, 2023
+**********************
+- Set display board flags
+- Update qcom-caf 8450 Taro HALs
+- Fix time to full
+- Reduce top corner radius
+- Various device optimizations
+- Build iFAA Service
+
+**********************
+     July 31, 2023
+**********************
+- Enable charger plug-in statusbar chip - A14 feature
+- Enable 'explicit' media indicator - A14 feature
+- Enable new back gesture affordance - A14 feature
+
+**********************
      July 28, 2023
 **********************
-- enable OTA for cupid
+- Enable OTA for cupid
 - Add MiuiCamera (replace Aperture)
 - Update Kernel 5.10 GKI platform tags to:
   * tag KERNEL.PLATFORM.1.0.r1-15500-kernel.0 	
