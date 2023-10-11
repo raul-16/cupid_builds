@@ -2,6 +2,22 @@ Xiaomi 12 | cupid
 🗒️ Changelog:
 
 **********************
+     October 9, 2023
+**********************
+- October 2023 Security patch
+- Update & rebase all cupid repos
+
+**********************
+     October 3, 2023
+**********************
+- Update Kernel 5.10.177 GKI platform tags:
+  * tag KERNEL.PLATFORM.1.0.r1-16200-kernel.0 	
+  * tag LA.VENDOR.1.0.r1-23700-WAIPIO.QSSI13.0
+  * tag CAMERA.LA.2.0.r1-10800-WAIPIO.0
+  * tag DISPLAY.LA.2.0.r1-12000-WAIPIO.0
+  * tag VIDEO.LA.2.0.r1-09300-WAIPIO.0
+
+**********************
      September 25, 2023
 **********************
 - September 2023 Security patch #2
