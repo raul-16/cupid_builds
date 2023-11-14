@@ -2,10 +2,23 @@ Xiaomi 12 | cupid
 🗒️ Changelog:
 
 **********************
+     November 12, 2023
+**********************
+- November 2023 Security patch
+- LOS Bump Security String to 2023-11-05
+
+**********************
+     October 27, 2023
+**********************
+- Update MiuiCamera from cupid MIUI V14.0.6.0.TLCMIXM
+
+**********************
      October 9, 2023
 **********************
 - October 2023 Security patch
 - Update & rebase all cupid repos
+- Upstream kernel to ASB-2023-10-06_12-5.10 (tag 5.10.189)
+- Move away from kernelplatform
 
 **********************
      October 3, 2023
