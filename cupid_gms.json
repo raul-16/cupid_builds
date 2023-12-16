@@ -1,21 +1,21 @@
 {
   "response": [
     {
-      "datetime": 1696958139,
-      "filename": "lineage-20.0-20231010-UNOFFICIAL-GMS-cupid.zip",
-      "id": "25c88e90af0e61457c365a628933105ab2a3c1abce9938240c70cc11c3f71fd4",
-      "romtype": "UNOFFICIAL",
-      "size": 2304009310,
-      "url": "https://sourceforge.net/projects/lineageos-cupid/files/LineageOS-20/lineage-20.0-20231010-UNOFFICIAL-GMS-cupid.zip/download",
-      "version": "20.0"
-    },
-    {
       "datetime": 1699814484,
       "filename": "lineage-20.0-20231114-UNOFFICIAL-GMS-cupid.zip",
       "id": "fc9c4727b9438933c46d745fccfbab58e732da7859ad236d49f64756434353a6",
       "romtype": "UNOFFICIAL",
       "size": 2305441733,
       "url": "https://sourceforge.net/projects/lineageos-cupid/files/LineageOS-20/lineage-20.0-20231114-UNOFFICIAL-GMS-cupid.zip/download",
+      "version": "20.0"
+    },
+    {
+      "datetime": 1702363925,
+      "filename": "lineage-20.0-20231216-UNOFFICIAL-GMS-cupid.zip",
+      "id": "3e4f7be4f1eef2842309a945af3ea28fa8939517552d09ff4c6b2ca9343f3d76",
+      "romtype": "UNOFFICIAL",
+      "size": 2304843585,
+      "url": "https://sourceforge.net/projects/lineageos-cupid/files/LineageOS-20/lineage-20.0-20231216-UNOFFICIAL-GMS-cupid.zip/download",
       "version": "20.0"
     }
   ]
