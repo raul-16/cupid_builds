@@ -2,188 +2,51 @@ Xiaomi 12 | cupid
 🗒️ Changelog:
 
 **********************
-     November 12, 2023
+     March 13, 2024
 **********************
-- November 2023 Security patch
-- LOS Bump Security String to 2023-11-05
-
-**********************
-     October 27, 2023
-**********************
-- Update MiuiCamera from cupid MIUI V14.0.6.0.TLCMIXM
-
-**********************
-     October 9, 2023
-**********************
-- October 2023 Security patch
-- Update & rebase all cupid repos
-- Upstream kernel to ASB-2023-10-06_12-5.10 (tag 5.10.189)
-- Move away from kernelplatform
-
-**********************
-     October 3, 2023
-**********************
-- Update Kernel 5.10.177 GKI platform tags:
-  * tag KERNEL.PLATFORM.1.0.r1-16200-kernel.0 	
-  * tag LA.VENDOR.1.0.r1-23700-WAIPIO.QSSI13.0
-  * tag CAMERA.LA.2.0.r1-10800-WAIPIO.0
-  * tag DISPLAY.LA.2.0.r1-12000-WAIPIO.0
-  * tag VIDEO.LA.2.0.r1-09300-WAIPIO.0
-
-**********************
-     September 25, 2023
-**********************
-- September 2023 Security patch #2
-- LOS upgrade to A13_r75 build TQ3A.230901.001
-- Fix CVE-2023-4863 (WebP 0-day)
-
-**********************
-     September 20, 2023
-**********************
-- Fix sms delays
-
-**********************
-     September 18, 2023
-**********************
-- September 2023 Security patch
-- LOS Bump Security String to 2023-09-05
-
-**********************
-     September 16, 2023
-**********************
-- Update Kernel 5.10.177 GKI platform tags:
-  * tag KERNEL.PLATFORM.1.0.r1-16000-kernel.0 	
-  * tag LA.VENDOR.1.0.r1-23400-WAIPIO.QSSI14.0
-  * tag CAMERA.LA.2.0.r1-10700-WAIPIO.0
-  * tag DISPLAY.LA.2.0.r1-11800-WAIPIO.0
-  * tag VIDEO.LA.2.0.r1-09200-WAIPIO.0
-
-**********************
-     August 31, 2023
-**********************
-- Update Kernel to 5.10.177 GKI platform tags:
-  * tag KERNEL.PLATFORM.1.0.r1-15600-kernel.0 	
-  * tag LA.VENDOR.1.0.r1-23100-WAIPIO.QSSI14.0
-  * tag CAMERA.LA.2.0.r1-10600-WAIPIO.0
-  * tag DISPLAY.LA.2.0.r1-11600-WAIPIO.0
-  * tag VIDEO.LA.2.0.r1-08900-WAIPIO.0
-- Update vendor/qcom/proprietary repo's
-
-**********************
-     August 20, 2023
-**********************
-- Update vendor/qcom/proprietary repo's
-- Build libvolumelistener from source
-- Add hotword enrollment blobs
-- Update vendor spl to July 2023
-- Report correct key code of headset buttons
-
-**********************
-     August 12, 2023
-**********************
-- August 2023 Security patch
-- LOS upgrade to A13_r67 build TQ3A.230805.001
-
-**********************
-     August 3, 2023
-**********************
-- Set display board flags
-- Update qcom-caf 8450 Taro HALs
-- Fix time to full
+- include MindTheGapps in GMS build
+- Enable powershare (reverse charging)
+- Enable wireless charging
 - Reduce top corner radius
 - Various device optimizations
 - Build iFAA Service
 
 **********************
-     July 31, 2023
+     March 10, 2024
 **********************
-- Enable charger plug-in statusbar chip - A14 feature
-- Enable 'explicit' media indicator - A14 feature
-- Enable new back gesture affordance - A14 feature
-
-**********************
-     July 28, 2023
-**********************
-- Enable OTA for cupid
-- Add MiuiCamera (replace Aperture)
-- Update Kernel 5.10 GKI platform tags to:
-  * tag KERNEL.PLATFORM.1.0.r1-15500-kernel.0 	
-  * tag LA.VENDOR.1.0.r1-22900-WAIPIO.QSSI13.0
-  * tag DISPLAY.LA.2.0.r1-11400-WAIPIO.0
-
-**********************
-     July 20, 2023
-**********************
-- Fix battery stats
-- Enable powershare (reverse charging)
-- Enable wireless charging
-- July 2023 Security patch
-- LOS upgrade to A13_r61 build TQ3A.230705.001
-- Configure BYPASS for Charging Control
-- Update Kernel 5.10 GKI platform tags to:
-  * tag KERNEL.PLATFORM.1.0.r1-15400-kernel.0 	
-  * tag LA.VENDOR.1.0.r1-22700-WAIPIO.QSSI13.0
-  * tag CAMERA.LA.2.0.r1-10500-WAIPIO.0
-  * tag DISPLAY.LA.2.0.r1-11100-WAIPIO.0
-  * tag VIDEO.LA.2.0.r1-08600-WAIPIO.0
-
-**********************
-     June 22, 2023
-**********************
-- Update Kernel 5.10 GKI platform tags to:
-  * tag KERNEL.PLATFORM.1.0.r1-15300-kernel.0 	
-  * tag LA.VENDOR.1.0.r1-22200-WAIPIO.QSSI13.0
-  * tag CAMERA.LA.2.0.r1-10400-WAIPIO.0
-  * tag DISPLAY.LA.2.0.r1-11000-WAIPIO.0
-  * tag VIDEO.LA.2.0.r1-08500-WAIPIO.0
-- June 2023 Security patch + QPR3
-- LOS upgrade to A13_r52 build TQ3A.230605.012
-- Implement xtra-daemon control via property
-- Remove all permissions from 'serial_number'
-- Add Lineage Charging Control 
-
-**********************
-     June 6, 2023
-**********************
-- Build with GMS
-- Update Kernel 5.10 GKI platform tags to:
-  * tag KERNEL.PLATFORM.1.0.r1-15200-kernel.0 	
-  * tag LA.VENDOR.1.0.r1-21900-WAIPIO.0
-  * tag CAMERA.LA.2.0.r1-10300-WAIPIO.0
-  * tag DISPLAY.LA.2.0.r1-10800-WAIPIO.0
-  * tag VIDEO.LA.2.0.r1-08400-WAIPIO.0
-
-**********************
-     May 31, 2023
-**********************
-- Update architecture
+- make Netflix select L1 instead of L3
+- add Dialer extra features
+- Update CPU architecture
 - optimize blur in framework
 - Add power menu blurs
-- Improve prop utils spoof for CTS
 - Add Transparent QS feature
 - Enable blurs
-- Enable media player wave/shimmering effects
 - Require unlocking to use sensitive QS tiles
-- Enable LTE+ icon
 - Add burnin protection
-- Android 13 QPR2
-- LOS upgrade to A13_r35 build TQ2A.230305.008.C1
 - Add three-fingers-swipe screenshot
-- Make CTS/Play Integrity pass
-- enable SafetyNet pass
+- Make Play Integrity pass
+- Remove all permissions from 'serial_number'
 - various device optimizations
 - enable VoWIFI in airplane mode
 - fix ViLTE camera
+- add MiuiCamera app from cupid OS1.0.3.0.ULCEUXM
+- kernel optimizations + bugfixes
+- repo sync all lineage-21 branches
 
 **********************
-     May 22, 2023
+     March 7, 2024
 **********************
-- May 2023 Security patch
-- LOS upgrade to A13_r43 build TQ2A.230505.002
-- lineage cupid initial build
+- update vendor blobs from HyperOS cupid OS1.0.3.0.ULCEUXM
+- update common blobs from HyperOS unicorn OS1.0.3.0.ULECNXM
+- rebase device & kernel trees on arian's lineage-21
+
+**********************
+     March 3, 2024
+**********************
+- lineage-21 cupid initial build on A13 blobs
 
 👨‍🔧️ maintainer: raul16
 🗓️ build: monthly
-🍦️ type: gms
-📱️ version: lineage-20
+🍦️ type: vanilla
+📱️ version: lineage-21
 
