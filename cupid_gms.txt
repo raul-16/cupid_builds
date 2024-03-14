@@ -47,6 +47,6 @@ Xiaomi 12 | cupid
 
 👨‍🔧️ maintainer: raul16
 🗓️ build: monthly
-🍦️ type: vanilla
+🍦️ type: gms
 📱️ version: lineage-21
 
