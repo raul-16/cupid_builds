@@ -8,6 +8,15 @@
       "size": 2022051408,
       "url": "https://sourceforge.net/projects/lineageos-cupid/files/LineageOS-21/lineage-21.0-20240314-UNOFFICIAL-GMS-cupid.zip/download",
       "version": "21.0"
+    },
+    {
+      "datetime": 1711522965,
+      "filename": "lineage-21.0-20240327-UNOFFICIAL-GMS-cupid.zip",
+      "id": "43be44a2b5c17f126fb6fc2c067b1d9a7cda4dc79799959ffc271718f08fbf0f",
+      "romtype": "UNOFFICIAL",
+      "size": 2033666713,
+      "url": "https://sourceforge.net/projects/lineageos-cupid/files/LineageOS-21/lineage-21.0-20240327-UNOFFICIAL-GMS-cupid.zip/download",
+      "version": "21.0"
     }
   ]
 }
