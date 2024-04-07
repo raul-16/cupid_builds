@@ -2,6 +2,16 @@ Xiaomi 12 | cupid
 🗒️ Changelog:
 
 **********************
+     April 5, 2024
+**********************
+- April 2024 Security patch
+- LOS upgrade to A14_r31 build UP1A.240405.002.A1
+- Fix QS transparency setting
+- add DataSwitch tile
+- add dynamic VoLTE/VoWIFI icons
+- various optimizations
+
+**********************
      March 26, 2024
 **********************
 - March 2024 Security patch
