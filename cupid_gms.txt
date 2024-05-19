@@ -2,6 +2,42 @@ Xiaomi 12 | cupid
 🗒️ Changelog:
 
 **********************
+     May 18, 2024
+**********************
+- update vendor SPL to 2024-04-01
+- Upstream vendor blobs from cupid V816.0.8.0.ULCEUXM
+- sync & rebase device, kernel & vendor repos
+
+**********************
+     May 9, 2024
+**********************
+- May 2024 Security patch
+- Upstream kernel to ASB-2024-05-05_12-5.10
+- sync & rebase device, kernel & vendor repos
+
+**********************
+     April 26, 2024
+**********************
+- add pixel clocks
+- add per app volume
+- sync & rebase device, kernel & vendor repos
+
+**********************
+     April 16, 2024
+**********************
+- add hide Power Menu on secure lockscreen option
+- fix BT QPR2 issues
+- update vendor SPL to 2024-03-01
+- update vendor blobs from V816.0.4.0.ULLMIXM
+
+**********************
+     April 10, 2024
+**********************
+- Upstream kernel to ASB-2024-04-05_12-5.10 (tag 5.10.209)
+- Upstream kernel to tag KERNEL.PLATFORM.1.0.r1-17400-kernel.0
+- Merge tags LA.VENDOR.1.0.r1-24900-WAIPIO.QSSI14.0
+
+**********************
      April 5, 2024
 **********************
 - April 2024 Security patch
