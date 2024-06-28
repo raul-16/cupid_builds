@@ -2,6 +2,32 @@ Xiaomi 12 | cupid
 🗒️ Changelog:
 
 **********************
+     June 25, 2024
+**********************
+- June 2024 Security patch
+- Android 14 QPR3
+- LOS upgrade to A14_r50 build UP2A.240605.024
+- Remove wait_for_keymaster and all references
+- Move to new RFS install_symlink targets
+- Convert WiFi firmware symlinks to install_symlink targets
+- Unset BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
+- dropped as broken after QPR3: pixel clocks, 
+  dynamic VoLTE/VoWIFI icons, per-app volume
+
+**********************
+     May 28, 2024
+**********************
+- sync & rebase platform
+- Make Play Integrity pass again
+
+**********************
+     May 27, 2024
+**********************
+- generate release (private) signing keys
+- sign build with release keys
+- build signing keys migration script
+
+**********************
      May 18, 2024
 **********************
 - update vendor SPL to 2024-04-01
@@ -102,6 +128,6 @@ Xiaomi 12 | cupid
 
 👨‍🔧️ maintainer: raul16
 🗓️ build: monthly
-🍦️ type: gms
+🍦️ type: gms, release keys
 📱️ version: lineage-21
 
