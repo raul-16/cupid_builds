@@ -2,6 +2,27 @@ Xiaomi 12 | cupid
 🗒️ Changelog:
 
 **********************
+     July 6, 2024
+**********************
+- July 2024 Security patch
+- LOS upgrade to A14_r53 build UP2A.240705.005
+- update vendor SPL to 2024-06-01
+- Upstream vendor blobs from cupid V816.0.9.0.ULCEUXM
+
+**********************
+     July 1, 2024
+**********************
+- Upstream kernel to ASB-2024-06-05_12-5.10 (tag 5.10.210)
+- Upstream kernel to tag KERNEL.PLATFORM.1.0.r1-18000-kernel.0
+- Merge tags LA.VENDOR.1.0.r1-25800-WAIPIO.QSSI14.0
+
+**********************
+     June 30, 2024
+**********************
+- fixed after QPR3: pixel clocks, 
+  dynamic VoLTE/VoWIFI icons, per-app volume
+
+**********************
      June 25, 2024
 **********************
 - June 2024 Security patch
