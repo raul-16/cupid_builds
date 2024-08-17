@@ -2,11 +2,43 @@ Xiaomi 12 | cupid
 🗒️ Changelog:
 
 **********************
+     August 16, 2024
+**********************
+- Upstream kernel to ASB-2024-08-05_12-5.10 (tag 5.10.218)
+- Upstream kernel to tag KERNEL.PLATFORM.1.0.r1-18100-kernel.0
+- Merge tags LA.VENDOR.1.0.r1-26100-WAIPIO.QSSI14.0
+- update MiuiCamera from unicorn OS1.0.6.0.ULECNXM
+
+**********************
+     August 12, 2024
+**********************
+- August 2024 Security patch
+- LOS upgrade to A14_r55 build UP2A.240805.005
+- sync & rebase platform
+- sync & rebase device, kernel & vendor trees
+
+**********************
+     July 30, 2024
+**********************
+- fix recovery battery status & level
+- add recovery USB OTG & SDCARD
+
+**********************
+     July 26, 2024
+**********************
+- fix GApps - Wellbeing crash on start activity
+
+**********************
+     July 9, 2024
+**********************
+- Upstream kernel to ASB-2024-07-05_12-5.10 (tag 5.10.214)
+
+**********************
      July 6, 2024
 **********************
 - July 2024 Security patch
 - LOS upgrade to A14_r53 build UP2A.240705.005
-- update vendor SPL to 2024-06-01
+- update vendor SPL to 2024-07-01
 - Upstream vendor blobs from cupid V816.0.9.0.ULCEUXM
 
 **********************
